@@ -1,6 +1,6 @@
 """Student Performance Prediction Service for EduPredict.
 
-Phase 6 Implementation:
+
 - Loads the 3 saved model pipelines (DecisionTree, RandomForestClassifier, RandomForestRegressor).
 - Uses the embedded scikit-learn ColumnTransformer preprocessing in each artifact.
 - Does not fit, retrain, or tune models during prediction.
